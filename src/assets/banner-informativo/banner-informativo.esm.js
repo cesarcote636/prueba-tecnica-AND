@@ -1,0 +1,2 @@
+import{p as o,b as t}from"./p-91cb3813.js";export{s as setNonce}from"./p-91cb3813.js";const e=()=>{const t=import.meta.url;const e={};if(t!==""){e.resourcesUrl=new URL(".",t).href}return o(e)};e().then((o=>t([["p-3b46e499",[[1,"my-component",{image:[1],destino:[1],texto:[1],auxiliar:[1],fondo:[1],texto2:[1,"texto-2"]}]]]],o)));
+//# sourceMappingURL=banner-informativo.esm.js.map
